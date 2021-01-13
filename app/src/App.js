@@ -58,7 +58,7 @@ function Lander() {
       <img
         id="logo"
         alt="logo"
-        src={logo}
+        src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
       />
       <div className="wrapper">
         <p>Make sure to add "https://"</p>
